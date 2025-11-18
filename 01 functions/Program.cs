@@ -1,9 +1,16 @@
-﻿namespace _01_functions;
+﻿namespace _01_functions
 
-class Program
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        Console.WriteLine("Hello, World!");
-    }
+        static void Main(string[] args)
+        {
+            Program program = new Program();
+            program.Run();
+        }
+        internal void Run()
+        {
+        }
+}
+
 }
