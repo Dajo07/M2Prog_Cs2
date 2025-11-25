@@ -31,6 +31,14 @@
             Console.WriteLine("do you like water?");
             string antwoord5 = Console.ReadLine();
             Console.WriteLine(antwoord5);
+
+            Internal string Vraag7()
+            {
+                Console.WriteLine("would you survive in Tom Clanys the Division?");
+                string antwoord = Console.ReadLine();
+
+                return antwoord;
+            }
         }
     }
 
