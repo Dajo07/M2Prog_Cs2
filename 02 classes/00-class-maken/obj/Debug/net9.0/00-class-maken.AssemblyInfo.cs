@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("00-class-maken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ac1b0799354e5cf45b0ec4eeb8045c50147c4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6634a23a9a29f08a75e448bcdd326fa222348078")]
 [assembly: System.Reflection.AssemblyProductAttribute("00-class-maken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("00-class-maken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

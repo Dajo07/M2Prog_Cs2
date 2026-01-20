@@ -28,7 +28,33 @@ class Program
             }
 
         }
-
-
     }
+    class Room
+    {
+        internal int x, y;
+        internal Room(int x, int y, string[] level)
+        {
+            this.x = x;
+            this.y = y;
+            this.level = level;
+
+            Room start = new Room(1, 1, new string[
+
+                        "#####",
+                        "#...#",
+                        "#...#",
+                        "#...#",
+                        "#####"
+
+                    ]);
+
+            return $"{x},{y}";
+
+             class Program 
+ {
+    rooms.Add(start.GetRoomLocationKey(), start);
+        }
+    }
+
+        
 }

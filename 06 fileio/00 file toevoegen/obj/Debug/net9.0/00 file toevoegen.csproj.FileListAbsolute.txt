@@ -1,0 +1,16 @@
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.AssemblyInfoInputs.cache
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.AssemblyInfo.cs
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.csproj.CoreCompileInputs.cache
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.sourcelink.json
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\bin\Debug\net9.0\00 file toevoegen.exe
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\bin\Debug\net9.0\quiz.txt
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\bin\Debug\net9.0\00 file toevoegen.deps.json
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\bin\Debug\net9.0\00 file toevoegen.runtimeconfig.json
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\bin\Debug\net9.0\00 file toevoegen.dll
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\bin\Debug\net9.0\00 file toevoegen.pdb
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.dll
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\refint\00 file toevoegen.dll
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.pdb
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\00 file toevoegen.genruntimeconfig.cache
+C:\Users\chomp\Documents\MA\Programeren C#\M2Prog_Cs2\06 fileio\00 file toevoegen\obj\Debug\net9.0\ref\00 file toevoegen.dll
